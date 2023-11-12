@@ -1,0 +1,6 @@
+Homework,50
+Assignments,75
+Labs,100
+Assessments,86
+Midterm,95
+Final,100
